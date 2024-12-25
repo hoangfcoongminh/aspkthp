@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\qlnv\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\qlnv\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|c:\\users\\hoang\\desktop\\asp.net\\kthp\\qlnv\\qlnv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\qlnv\\views\\nhanviens\\categorymenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\categorymenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|c:\\users\\hoang\\desktop\\asp.net\\kthp\\qlnv\\qlnv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\qlnv\\views\\nhanviens\\hienthitheophong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\hienthitheophong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\qlnv\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|c:\\users\\hoang\\desktop\\asp.net\\kthp\\qlnv\\qlnv\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|c:\\users\\hoang\\desktop\\asp.net\\kthp\\qlnv\\qlnv\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|c:\\users\\hoang\\desktop\\asp.net\\kthp\\qlnv\\qlnv\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\qlnv\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\qlnv\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\qlnv\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBF5975-BE9E-4D06-BA50-5AF38911C3A7}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QLNV\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QLNV\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:08:17.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeToolTip": "QLNV\\Views\\NhanViens\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:41:44.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\NhanViens\\Details.cshtml",
+              "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\NhanViens\\Details.cshtml",
+              "RelativeToolTip": "QLNV\\Views\\NhanViens\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:41:43.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\NhanViens\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\NhanViens\\Delete.cshtml",
+              "RelativeToolTip": "QLNV\\Views\\NhanViens\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:41:42.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "QLNV\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "QLNV\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T16:35:05.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "QLNV\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "QLNV\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:33:52.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "QLNV\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "QLNV\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:08:52.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HienThiTheoPhong.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\NhanViens\\HienThiTheoPhong.cshtml",
+              "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\HienThiTheoPhong.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\NhanViens\\HienThiTheoPhong.cshtml",
+              "RelativeToolTip": "QLNV\\Views\\NhanViens\\HienThiTheoPhong.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T16:08:41.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QLNV\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QLNV\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T15:54:52.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\NhanViens\\CategoryMenu.cshtml",
+              "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\CategoryMenu.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\NhanViens\\CategoryMenu.cshtml",
+              "RelativeToolTip": "QLNV\\Views\\NhanViens\\CategoryMenu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T15:53:18.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "QLNV\\Models\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Models\\NhanVien.cs",
+              "RelativeToolTip": "QLNV\\Models\\NhanVien.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:18:28.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\NhanViens\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Views\\NhanViens\\Create.cshtml",
+              "RelativeToolTip": "QLNV\\Views\\NhanViens\\Create.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T15:10:57.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanViensController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Controllers\\NhanViensController.cs",
+              "RelativeDocumentMoniker": "QLNV\\Controllers\\NhanViensController.cs",
+              "ToolTip": "C:\\Users\\hoang\\Desktop\\asp.net\\KTHP\\QLNV\\QLNV\\Controllers\\NhanViensController.cs",
+              "RelativeToolTip": "QLNV\\Controllers\\NhanViensController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwCIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:10:07.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
